@@ -1,5 +1,5 @@
 ## Medical_Device_Failure
-###### disclaimer: Model Architecture, Problem statement and Data Glossary have been adjusted to protect company's IP. This actual project was carried out in Sept 2020
+###### Disclaimer: `Model Architecture`, `Problem Statement` and `Data Glossary` have been adjusted to protect company's IP. This actual project was carried out in July 2020
 ##### Problem Statement
 Non-routine quality events, like material failures, cost the medical device industry between US $2 - 5 billion per year on average.Materials-related issues are responsible for >30% of medical device failures, In 2017, about 35% of medical device failures reported to the Food and Drug Administration (FDA) were materials-related, another 5% was due to electronic failures. A medical device material failure makes them prone to errors and this can be traced back to the materials used to develop the medical device.Many medical devices can be affected by a material failure, and failure can during the course of a medical device lifecycle.
 
