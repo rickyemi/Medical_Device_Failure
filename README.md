@@ -18,7 +18,11 @@ Material failures are costly at any point in the product life cycle, but the con
 
 - Exploratory Data Analysis : Run a descriptive analysis to gain preliminary insights in medical device failure
 
-- Statistical Analysis: Hypothesis test - Answer the question is there statistical difference in the internal velocity of the 4 Gear Types
+- Statistical Analysis: Hypothesis test
+  
+     - Answer the question is there statistical difference in the internal velocity of the 4 Gear Types
+       
+     - Build an inferential model to explain the impact of the various independent variables on the device failure
   
 - Machine Learning: For this medical device, develop a ML model to identify (1) potential failures;(2) key attributes driving these failures;(3) optimize the model performance
 
