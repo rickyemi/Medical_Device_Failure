@@ -2,7 +2,7 @@
 ###### Disclaimer: `Model Architecture`, `Problem Statement` and `Data Glossary` have been adjusted to protect company's IP. This actual project was carried out in July 2020
 
 <center><p float="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.antidote.me%2Fblog%2Fhow-do-medical-device-clinical-trials-work&psig=AOvVaw2nb1hhucuD96lhagNGvGL6&ust=1708213356942000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMjY1OSEsYQDFQAAAAAdAAAAABAE" width=650/>
+  <img src="https://www.antidote.me/hs-fs/hubfs/modern-operating-room-in-a-hospital-generated-digitally-picture-id1281627829.jpg?width=1536&name=modern-operating-room-in-a-hospital-generated-digitally-picture-id1281627829.jpg" width=650/>
 </p></center>
 
 
